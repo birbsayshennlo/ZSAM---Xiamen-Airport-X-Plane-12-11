@@ -12,7 +12,10 @@ Libaries Required
 - SAM Libary (if you use the SAM VDGS version)
 - People_LIB
 - Orbx XP12 libary
-STATUS:
-WORK IN PROGRESS
+
+
+
+Status:
+Work In Progress
 Working on SAM VDGS, Details to the gates and stands right now.
 

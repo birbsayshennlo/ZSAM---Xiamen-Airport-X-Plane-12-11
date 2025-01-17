@@ -23,7 +23,7 @@ Libaries Required
 
 Check out: 
 
-https://github.com/users/birbsayshennlo/projects/2
+https://github.com/users/birbsayshennlo/projects/2/views/1
 
 for more info.
 

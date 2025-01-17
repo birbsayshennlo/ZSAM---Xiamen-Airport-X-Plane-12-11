@@ -1,5 +1,11 @@
 # ZSAM---Xiamen-Airport-X-Plane-12-11
 Freeware, open-source scenery for Xiamen Gaoqi Airport, based of the X-Plane Scenery Gateway. 
+The terminals and may things have not been upgraded, if anyone can help me with modeling and improving ZSAM, please email:
+
+ryanxu6868@gmail.com
+
+thx, greatly appreciated 😀😉
+
 
 Libaries Required
 
@@ -15,9 +21,14 @@ Libaries Required
 - People_LIB
 - Orbx XP12 libary
 
+Check out: 
 
+https://github.com/users/birbsayshennlo/projects/2
+
+for more info.
 
 Status:
+
 Work In Progress
 
 

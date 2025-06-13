@@ -31,8 +31,12 @@ Status:
 
 Work In Progress
 
+UPDATE - JUNE 13 2025 
+At the moment the project has restarted. Had some storage issues before and left this aside. Work is resuming. If anyone has any sills in modeling, WED and scenery creation for X-Plane, please email me.
 
 Working on SAM VDGS, Details to the gates and stands right now.
 
 
 Possibly adding Ortho soon, could be next.
+
+A download for the current unfinished package is comimg soom, however with the size is very big, around 4gb.

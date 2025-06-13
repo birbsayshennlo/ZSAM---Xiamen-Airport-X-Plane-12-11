@@ -32,6 +32,7 @@ Status:
 Work In Progress
 
 UPDATE - JUNE 13 2025 
+
 At the moment the project has restarted. Had some storage issues before and left this aside. Work is resuming. If anyone has any sills in modeling, WED and scenery creation for X-Plane, please email me.
 
 Working on SAM VDGS, Details to the gates and stands right now.
